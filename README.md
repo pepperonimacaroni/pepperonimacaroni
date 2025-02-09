@@ -1,0 +1,5 @@
+- 👋 Greetings from me
+- 👀 I’m interested in Computer Science, Robotics, MUN, geeky stuff...
+- 🌱 I’m currently learning Swift
+- 😄 Pronouns: He/him
+- This readme will be updated over time.

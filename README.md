@@ -1,3 +1,2 @@
 - 👋 Greetings from me
-- 👀 I’m interested in Computer Science, Robotics, MUN, geeky stuff...
 - 😄 Pronouns: He/him
